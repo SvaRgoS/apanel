@@ -1,0 +1,23 @@
+{
+    "name": "svargos/apanel",
+    "description": "",
+    "authors": [
+        {
+            "name": "SvaRgoS",
+            "email": "fedyay.prg@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*"
+    },
+    "autoload": {
+        "classmap": [
+            "src/migrations"
+        ],
+        "psr-4": {
+            "Svargos\\Apanel\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
