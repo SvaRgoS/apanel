@@ -1,6 +1,9 @@
 {
     "name": "svargos/apanel",
     "description": "",
+    "license": "MIT",
+    "keywords" : ["Laravel"],
+    "homepage" : "https://github.com/SvaRgoS/apanel",
     "authors": [
         {
             "name": "SvaRgoS",

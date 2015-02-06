@@ -19,8 +19,7 @@ class ApanelServiceProvider extends ServiceProvider {
 	public function boot()
 	{
 
-
-	die ('Here Boot');// Debug by SvaRgoS
+	    die ('Here Boot');// Debug by SvaRgoS
 
 	}
 
