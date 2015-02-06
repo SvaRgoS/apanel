@@ -1,6 +1,6 @@
 {
     "name": "svargos/apanel",
-    "description": "",
+    "description": "Administrator panel for Laravel 5",
     "license": "MIT",
     "keywords" : ["Laravel"],
     "homepage" : "https://github.com/SvaRgoS/apanel",
